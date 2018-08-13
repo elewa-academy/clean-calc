@@ -46,7 +46,7 @@ To see how well you did, go to the "cleancalc" channel on Slack to share objects
 
 This project has several steps to it
 
-1. Build an object to match [these specs](https://github.com/elewa-academy/Fundamentals/blob/master/3-cleancalc/cleancalc-series/1-cleancalc.js). 
+1. Build an object to match [these specs](https://github.com/elewa-academy/separation-of-concerns/blob/master/clean-calc-series/1-cleancalc.js). 
 2. Write a JS file to take command line arguments and pass them into your calculator. 
     * Your three layers are:
         a. UI - the terminal

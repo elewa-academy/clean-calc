@@ -46,11 +46,11 @@ To see how well you did, go to the "cleancalc" channel on Slack to share objects
 
 This project has several steps to it
 
-1. Build an object to match [these specs](https://github.com/elewa-academy/separation-of-concerns/blob/master/clean-calc-series/1-cleancalc.js). 
+1. Build an object to match [these specs](./clean-calc-series/1-cleancalc.js). 
 2. Write a JS file to take command line arguments and pass them into your calculator. 
     * Your three layers are:
         a. UI - the terminal
-        b. Middleware - process.argsv & console.log
+        b. Middleware - process.argsv & d
         c. Logic - Cleancalc Object
     * You will write a single JS file that takes in command line args, passes them through the calc Object, and prints the result to the console.
 3. Reuse your calc object in a basic browser app.  The event handlers will take the user's input, pass it through the calc object, and write the results to the DOM.  

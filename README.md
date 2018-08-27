@@ -78,13 +78,12 @@ This project has several steps to it
         * How to use the app
         * Project structure
         * Specs for your calc
-        * Link to a [Gist](https://gist.github.com) with your finished calc object
     * Tests for the calc object
     * Source code for every step you completed in a separate folder
-5. Go to Slack and trade Gists. See what happens if you replace your cleancalc.js with someone else's.  Does it make your app crash? (This is called _dependency injection_.)
+5. Go to Slack and trade code. See what happens if you replace your cleancalc.js with someone else's.  Does it make your app crash? (This is called _dependency injection_.)
 
 More Practice:
-* Revisit your completed CodeWar repositories.  Add UI and a handler to them so users can run your solution with their own arguments directly from Gh-Pages.
+* Refactor this project into full MVC-LH architecture.  The finished object is already well-organized for this.
 
 
 [TOP](#index)

@@ -98,7 +98,7 @@ __Cleancalc video series__:
 * [Part 3](https://www.youtube.com/watch?v=cjFEm_Drpnw)
 * [Part 4](https://www.youtube.com/watch?v=7VjtfihfwuE)
 * [Part 5](https://www.youtube.com/watch?v=XgUvVRj2Nao)
-* [Code to study](https://github.com/elewa-academy/Fundamentals/tree/master/)
+* [Code to study](https://github.com/elewa-academy/separation-of-concerns/)
 * [3 Layer Cleancalc](https://gist.github.com/colevandersWands/3e34dd6587c3639b17de9d46041f0096)
  
 

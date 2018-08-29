@@ -92,14 +92,15 @@ More Practice:
 
 ## Resources
 
-__Cleancalc video series__:
+__The CleanCalc__:
 * [Part 1](https://www.youtube.com/watch?v=RXTTYVPPHNo)
 * [Part 2](https://www.youtube.com/watch?v=WjbQZZpKdd4)
 * [Part 3](https://www.youtube.com/watch?v=cjFEm_Drpnw)
 * [Part 4](https://www.youtube.com/watch?v=7VjtfihfwuE)
 * [Part 5](https://www.youtube.com/watch?v=XgUvVRj2Nao)
 * [Code to study](https://github.com/elewa-academy/separation-of-concerns/)
-* [3 Layer Cleancalc](https://gist.github.com/colevandersWands/3e34dd6587c3639b17de9d46041f0096)
+* [3 Layer Cleancalc](https://gist.github.com/colevandersWands/3e34dd6587c3639b17de9d46041f0096)  
+* [trace-blocked cleancalc](https://repl.it/@colevandersWands/trace-blocked-cleancalc)  
  
 
 __Separation of Concerns__:  
